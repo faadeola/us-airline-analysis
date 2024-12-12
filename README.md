@@ -1,7 +1,5 @@
 # Introduction
-This report presents an analysis of the US airline dataset, provided to understand metrics associated with over 100+ entries, each representing air traffic data over some time. Data provided includes:
-
-The analysis aims to explore the relationship and trend, fitting and clustering between different data and provide discoveries that could help make informed decisions. Typically, this analysis explores any relations within the US airline dataset.
+This analysis aims to understand the distribution of key variables, explore relationships between variables, and make predictions within the US airlines dataset using statistical methods, curve fitting, and clustering techniques. 
 
 
 ### Dataset Web Address
