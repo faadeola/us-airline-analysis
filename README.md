@@ -8,5 +8,5 @@ The goal of this analysis is to explore the relationship and trend, fitting and 
 The dataset used for this analysis can be found on Kaggle website via [U.S. Airline Traffic Data (2003-2023)](https://www.kaggle.com/datasets/yyxian/u-s-airline-traffic-data)
 
 ### Analysis Report
-https://www.kaggle.com/datasets/yyxian/u-s-airline-traffic-data](https://docs.google.com/document/d/10LrhE7oWwyOe2olWRognwZDa0x5fiOpm-EixTIpnUkc/edit?usp=sharing
+[US Airline Fitting and Clustering Analysis Report](https://docs.google.com/document/d/10LrhE7oWwyOe2olWRognwZDa0x5fiOpm-EixTIpnUkc/edit?usp=sharing
 
